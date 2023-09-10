@@ -1,0 +1,7 @@
+Medicine's name: Antibiotic
+Medicine's expiry date: 2/6/2023
+Medicine's price: RM20
+Medicine's side effect: Vomit, Nausea
+Medicine's dosage: 15/mg once/day
+
+Medicine's reference code: 1011

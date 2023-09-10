@@ -1,0 +1,28 @@
+Medicine's reference code: 1010
+Medicine's name: Antibiotic
+Medicine's expiry date: 2/6/2023
+Medicine's price: RM20
+Medicine's side effect: Vomit, Nausea
+Medicine's dosage: 15/mg once/day
+
+Medicine's reference code: 1011
+Medicine's name: Aspirin
+Medicine's expiry date: 8/2/2023
+Medicine's price: RM30
+Medicine's side effect: Upset stomach, Heartburn
+Medicine's dosage: 40mg/kg 2 times/day
+
+Medicine's reference code: 1012
+Medicine's name: Lyrica
+Medicine's expiry date: 2/6/2023
+Medicine's price: RM10
+Medicine's side effect: Severe allergic reaction
+Medicine's dosage: 50mg/kg once/week
+
+Medicine's reference code: 1013
+Medicine's name: Dupixent
+Medicine's expiry date: 5/8/2023
+Medicine's price: RM15
+Medicine's side effect: Joint pain
+Medicine's dosage: 20mg/kg once/week
+

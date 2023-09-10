@@ -1,0 +1,27 @@
+Username: JaysonZR
+Password: appleissweet
+Name: Tan Zhi Rong
+Address: 57
+Email ID: tanzhirong03@gmail.com
+Contact no.: 012-313 9872
+Gender: Male
+Date of Birth: 27/04/2003
+
+Username: Sean
+Password: seantanmingyuan
+Name: Sean Tan
+Address: 32, Lorong Batu Nilam 13A, Bandar Bukit Tinggi, 41200 Klang, Selangor.
+Email ID: seantanmingyuan03@gmail.com
+Contact no.: 012-344 5677
+Gender: Male
+Date of Birth: 25/12/2003
+
+Username: ABC
+Password: DEFDEFDEF
+Name: GHI
+Address: JKL
+Email ID: MNO
+Contact no.: PQR
+Gender: Male
+Date of Birth: 2/6/2003
+

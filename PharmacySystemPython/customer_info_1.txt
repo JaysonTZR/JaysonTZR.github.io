@@ -1,0 +1,8 @@
+Username: JaysonZR
+Password: appleissweet
+Name: Tan Zhi Rong
+Address: 57
+Email ID: tanzhirong03@gmail.com
+Contact no.: 012-313 9872
+Gender: Male
+Date of Birth: 27/04/2003

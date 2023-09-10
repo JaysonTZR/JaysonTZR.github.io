@@ -1,0 +1,17 @@
+Customer: JaysonZR
+Lyrica x7
+Dupixent x1
+Antibiotic x3
+End of the order list.
+
+Customer: Sean
+Aspirin x3
+Dupixent x5
+Lyrica x1
+End of the order list.
+
+Customer: ABC
+Antibiotic x3
+Lyrica x2
+End of the order list.
+
