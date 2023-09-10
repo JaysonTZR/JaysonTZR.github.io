@@ -1,0 +1,84 @@
+<!DOCTYPE html> 
+<html> 
+
+<head> 
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<link href="headerfooter.css" rel="stylesheet" type="text/css" />
+<link href="contactus.css" rel="stylesheet" type="text/css" />
+<script src="contactus.js" type="text/javascript"></script>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,80;1,900&display=swap" rel="stylesheet">
+<title>Contact Us</title> 
+</head> 
+
+<body style="background-color:whitesmoke">
+
+    <header id="mainheader">
+        <a class="logolinks" href="home.html"><img src="logo.png" alt="logo"></a>
+        <nav>
+            <ul class="navlinks">
+                <li><a href="home.html">Home</a></li> <!--Home Page-->
+                <li><a href="aboutus.html">About</a></li> <!--About Us Page-->
+                <li><a href="news.html">News</a></li> <!--News Page-->
+                <li><a href="training.html">Training</a></li> <!--Training Info-->
+                <li><a href="team.html">Team</a></li> <!--Coach Info-->
+                <li><a href="club.html">Club</a></li> <!--Club Member-->
+                <li><a href="activities.html">Activities</a></li> <!--Past Activities-->
+                <li><a href="gallery.html">Gallery</a></li> <!--Gallery-->
+                <li><a href="awards.html">Awards</a></li> <!--Awards-->
+            </ul>
+        </nav>
+        <a class="cta" href="signin.html">Login</a>
+    </header>
+    <script src="headerfooter.js"></script>
+
+    <section>
+        <div class="contactusbg">
+            <h2>Contact Us</h2>
+        </div>
+    </section>
+
+    <section>
+        <div class="contact-in">
+            <div class="contact-map">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3984.1466075716667!2d101.69837271538468!3d3.0554110545722852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc4abb795025d9%3A0x1c37182a714ba968!2sAsia%20Pacific%20University%20of%20Technology%20%26%20Innovation%20(APU)!5e0!3m2!1sen!2smy!4v1667221163512!5m2!1sen!2smy" width="100" height="auto" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+            <div class="contact-form">
+                <form>
+                    <span>Your Name*</span>
+                    <input type="text" placeholder="Enter here..." class="contact-form-txt" />
+                    <span>Your Email*</span>
+                    <input name="email" type="text" placeholder="Enter here..." class="contact-form-txt" />
+                    <span>Phone*</span>
+                    <input type="text" placeholder="Enter here..." class="contact-form-txt" />
+                    <span>Message*</span>
+                    <textarea placeholder="Enter here..." class="contact-form-textarea"></textarea>
+                    <input type="submit" name="Submit" class="contact-form-btn" onclick="return checkmail(this.form.email)"/>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer-content">
+            <h3>Badminton</h3>
+            <p>Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it. A champion has to be disciplined by practicing regularly in the right manner, respect coaches, and most importantly ought to have self-belief.</p>
+            <ul class="socials">
+                <li><a href="-"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="-"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="-"><i class="fa fa-google-plus"></i></a></li>
+                <li><a href="-"><i class="fa fa-youtube"></i></a></li>
+                <li><a href="-"><i class="fa fa-linkedin-square"></i></a></li>
+            </ul>
+            <div class="fnavlinks">
+                <li><a href="contactus.html">Contact Us</a></li>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy;Copyright 2022 Badminton. Developed by ZR</p>
+        </div>
+    </footer>
+    
+</body>
+
+</html>

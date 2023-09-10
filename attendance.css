@@ -1,0 +1,155 @@
+body {
+    font-family: sans-serif;
+}
+
+section .attendancename {
+    padding-bottom: 0px;
+}
+
+section .attendancename h5 {
+    font-family: 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 18px;
+    padding-left: 1650px;
+}
+
+section .attendanceboard .attendanceboardtitle h3 {
+    display: inline;
+    color: white;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+section .attendanceboard .attendanceboardtitle .no {
+    padding-left: 12px;
+}
+
+section .attendanceboard .attendanceboardtitle .cp {
+    padding-left: 25px;
+}
+
+section .attendanceboard .attendanceboardtitle .ca {
+    padding-left: 190px;
+}
+
+section .attendanceboard .attendanceboardtitle .tn {
+    padding-left: 131px;
+}
+
+section .attendanceboard ul {
+    width: 1700px;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    background: linear-gradient(225deg, #8860D0, #5680E9, #5AB9EA, #84CEEB);
+    box-shadow: 0px 0px 10px 0px #666;;
+}
+
+section .attendanceboard ul li{
+    display: flex;
+    background: grey;
+    padding: 10px 20px;
+    color: black;
+    margin: 12px 0;
+    transition: .5s;
+    border-radius: 10px;
+}
+
+section .attendanceboard ul li:nth-child(2) {
+    background: white;
+}
+
+section .attendanceboard ul li:nth-child(3) {
+    background: white;
+}
+
+section .attendanceboard ul li:nth-child(4) {
+    background: white
+}
+
+section .attendanceboard ul li:nth-child(5) {
+    background: white;
+}
+
+section .attendanceboard ul li:nth-child(6) {
+    background: white;
+}
+
+section .attendanceboard ul li span:nth-child(1) {
+    width: 50px;
+}
+
+section .attendanceboard ul li span:nth-child(2) {
+    width: 298px;
+}
+
+section .attendanceboard ul li span:nth-child(3) {
+    width: 290px;
+}
+
+section .attendanceboard ul li:hover {
+    transform: scale(1.06);
+    background: linear-gradient(45deg, #8860D0, #5680E9, #5AB9EA, #84CEEB);
+    color: white;
+}
+
+section .attendancebg {
+    width: 100%;
+    height: 400px;
+    top: 65px;
+    background-image: url(attendancebg.jpg);
+    background-size: cover;
+    background-position: center center;
+    color: white;
+}
+
+section .attendancebg h2 {
+    padding-top: 9%;
+    font-size: 50px;
+    font-family: 'Monserrat', sans-serif;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+section .attendancetitle .btnattendance {
+    padding: 12px 36px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+    letter-spacing: 2px;
+    border-radius: 40px;
+    background: linear-gradient(225deg, #8860D0, #5680E9, #5AB9EA, #84CEEB);
+}
+
+section .attendancetitle .btnattendance:hover {
+    background: lightgray;
+}
+
+section .attendancetitle ul {
+    list-style: none;
+    position: relative;
+    left: 100px;
+    display: flex;
+}
+
+section .attendancename h1 {
+    position: relative;
+    left: 105px;
+    padding-top: 30px;
+    font-family: 'Times New Roman', serif;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+section .attendancetitle .attendancepercentage {
+    padding-left: 1300px;
+    color: #0ffc03;
+    font-size: 45px;
+}
