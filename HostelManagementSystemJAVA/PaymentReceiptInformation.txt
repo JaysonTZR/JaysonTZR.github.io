@@ -1,0 +1,48 @@
+30/4/2023
+22:36:10
+Hostel
+S0001
+John Doe
+April
+550
+
+30/4/2023
+22:38:41
+Hostel Management
+S0002
+Sarah Smith
+January
+580
+
+30/4/2023
+22:48:40
+Hostel
+S0501
+Tom Williams
+August
+480
+
+1/5/2023
+12:24:27
+Hostel
+T0001
+Emily Rodriguez
+March
+450
+
+1/5/2023
+12:27:25
+Hostel
+S0502
+John Doe
+February
+450
+
+8/5/2023
+17:04:52
+Hostel
+T0002
+Sarah Smith
+March
+480
+
