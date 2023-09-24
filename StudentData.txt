@@ -1,0 +1,80 @@
+01/02/2023
+John Doe
+04/12/2000
+Male
+USA
+012-345 6789
+johndoe@gmail.com
+Computer Science
+4
+2
+On-campus
+Twin
+No
+Yes
+Male
+01/03/2023
+01/05/2023
+Prefer new built room
+S0001
+
+01/06/2023
+John Doe
+04/12/2000
+Male
+USA
+012-345 6789
+johndoe@gmail.com
+Computer Science
+4
+2
+Off-campus
+Single
+Yes
+Yes
+None
+01/07/2023
+01/10/2023
+-
+S0501
+
+05/01/2023
+Sarah Smith
+02/01/2002
+Female
+Germany
+014-234 2032
+sarahsmith@gmail.com
+Business
+3
+1
+Off-campus
+Single
+Yes
+Yes
+None
+02/02/2023
+05/07/2023
+-
+S0502
+
+05/09/2023
+Tom Williams
+23/06/2001
+Male
+Australia
+016-234 6453
+tomwilliams@gmail.com
+Art Science
+3
+3
+On-campus
+Triple
+Yes
+No
+Mixed
+01/01/2024
+01/06/2024
+-
+R0001
+

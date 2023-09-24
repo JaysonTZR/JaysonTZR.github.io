@@ -1,0 +1,26 @@
+admin1
+letmein
+John Smith
+john.smith@example.com
++1 (555) 123-4567
+123 Main St, Anytown, USA
+
+admin2
+password123
+Full name: Emily Davis
+Email: emily.davis@example.com
+Contact number: +1 (555) 987-6543
+Address: 456 Elm St, Anytown, USA
+
+admin3
+adminpassword
+William Johnson
+william.johnson@example.com
++1 (555) 555-1212
+789 Oak St, Anytown, USA
+
+admin4
+Sarah Lee
+sarah.lee@example.com
++1 (555) 777-8888
+321 Pine St, Anytown, USA
